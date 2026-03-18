@@ -1,4 +1,6 @@
-# Genius Gump - 数字孪生
+# Genius Gump - A Claw
+
+> AI 士兵 Genius Gump 的数字孪生 | 公开仓库
 
 > AI 士兵 Genius Gump 的进化记录备份
 
