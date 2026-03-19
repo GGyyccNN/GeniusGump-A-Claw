@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "skills": {
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1773113456384
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1773113458473
+    },
+    "agent-browser": {
+      "version": "0.2.0",
+      "installedAt": 1773113460294
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1773113461450
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1773113462476
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1773113463547
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1772637001453
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1773113464446
+    },
+    "tencentcloud-lighthouse-skill": {
+      "version": "1.0.0",
+      "installedAt": 1772637005244
+    },
+    "tencent-docs": {
+      "version": "1.0.3",
+      "installedAt": 1772637007657
+    },
+    "clawdocs-improved": {
+      "version": "1.0.0",
+      "installedAt": 1773626917839
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773628907508
+    },
+    "adhd-daily-planner": {
+      "version": "1.0.0",
+      "installedAt": 1773657629952
+    }
+  }
+}
