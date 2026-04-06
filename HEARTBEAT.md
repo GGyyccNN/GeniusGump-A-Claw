@@ -59,6 +59,7 @@ openclaw cron run <task-id> --force
 
 ## 当前待办任务
 
+- [ ] **上班一年之际整理代码和成果** — 上传 GitHub，沉淀 skill
 - [ ] **开发 prompt catcher skill** — 能捕捉完整提示词，导出系统提示词原文
 - [ ] 修改进化 skill 并发布、应用
 - [ ] 配置 opencode 的使用 skill
