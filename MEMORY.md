@@ -30,6 +30,7 @@ _待补充..._
 ## 学习记录
 
 - **2026-03-11**: 安装 skill-creator 技能（来自 anthropics/skills），支持创建/评测/迭代技能，符合进步进化理念
+- **2026-04-09**: 心跳检查检测到 cron 异常（daily-memory-sync 跳过两次运行），自动触发手动补跑。验证了监控机制有效性
 - **2026-03-12**: cron 任务推送飞书需要 `--channel feishu --to user:<openId>`
 - **2026-03-13**: 配置 GitHub CLI (gh 2.88.1)，账户 GGyyccNN；安装 OpenCode 1.2.25 (AI coding agent)；确认有读取 OpenClaw 源码权限（编译后的 JS）
 - **2026-03-15**: OpenClaw 版本 2026.3.12 (build 6472949)，TypeScript/JS 项目；源码路径 `/root/.local/share/pnpm/global/5/.pnpm/openclaw@2026.3.12*/node_modules/openclaw/`
