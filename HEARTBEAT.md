@@ -72,6 +72,7 @@ openclaw cron run <task-id> --force
 - [ ] **导入长官对智能的思考** - 将历史思考内容纳入记忆系统
 - [ ] **找好用的 skill** — 项目进度跟踪、自动保存、结构跟踪
 - [ ] **探索 Hermes agent** — 了解新 agent 的能力和用途
+- [ ] **查看 GitHub 项目 VSS**
 
 ## 每日笔记模板
 
